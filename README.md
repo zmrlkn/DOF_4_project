@@ -1,5 +1,5 @@
 # DOF_4_project
-Dijital Oyun Fabrikası 4. hafta ödevi mini game 
+Dijital Oyun Fabrikası 4. hafta ödevi mini car game 
 <img width="1021" alt="mini2" src="https://github.com/zmrlkn/DOF_4_project/assets/96260092/adff675b-bbea-4bc6-81bc-b2f176e31600">
 
 
